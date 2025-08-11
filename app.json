@@ -1,7 +1,7 @@
 {
   "name": "DULA-MD",
   "description": "Javascript WhatsApp bot made by DULA",
-  "logo": "https://ibb.co/VYTLfPSv",
+  "logo": "https://github.com/PODDAe/DULA-MD-V1.0/blob/main/IMAGES/DULA-MD-LOGO.png?raw=true",
   "keywords": ["DULA-MD"],
   "success_url": "/",
 
@@ -12,7 +12,7 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "https://ibb.co/VYTLfPSv",
+      "description": "https://github.com/PODDAe/DULA-MD-V1.0/blob/main/IMAGES/DULA-MD-LOGO.png?raw=true",
       "required": true
     },
     
