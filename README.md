@@ -10,6 +10,4 @@ DULA Md V1 In Puverful Whatsapp Bot ⚙️ In Srilanka 🇱🇰 Button NonButton
 
 
 # LINK WITH PHONE NUMBER (SESON ID)
-
-[![Run on Replit](https://replit.com/badge.svg)](https://replit.com/@camalkaakash2/DULA-MD-V1-WEB-PAIR?v=1)
-
+| 🌐 Get Session | [![LINK WITH PHONE NUMBER](https://replit.com/@camalkaakash2/DULA-MD-V1-WEB-PAIR?v=1) |
