@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `DULA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await DULA.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://ibb.co/VYTLfPSv` },
+        image: { url: `https://github.com/PODDAe/DULA-MD-V1.0/blob/main/IMAGES/DULA-MD-LOGO.png?raw=true` },
         caption: up
       });
 
