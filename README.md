@@ -11,3 +11,8 @@ DULA Md V1 In Puverful Whatsapp Bot ⚙️ In Srilanka 🇱🇰 Button NonButton
 
 # LINK WITH PHONE NUMBER (SESON ID)
 | 🌐 Get Session | [Run this project on Replit](https://replit.com/@camalkaakash2/DULA-MD-V1-WEB-PAIR?v=1) |
+
+
+
+# WEB PAIR GITHUB PROJECT (DON'T GO THIS LINK)
+|https://github.com/PODDAe/DULA-MD-V1-WEB-PAIR/tree/main|
